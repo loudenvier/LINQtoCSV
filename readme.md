@@ -2,7 +2,7 @@
 
 # LINQtoCSV
 
-**About this fork**: it migrates the target framework to .NET Standard 2.0 which makes this a drop-in replacement which works on both .NET Framework and modern .NET. It also multi-target .NET framework 3.5 for backwards compatibility.
+**About this fork**: it migrates the target framework to .NET Standard 2.0 making this a drop-in replacement which works on both .NET Framework and modern .NET. It also multi-targets .NET framework 3.5 for backwards compatibility.
 
 This library makes it easy to use CSV files with LINQ queries. Its features include:
 
