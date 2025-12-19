@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <TargetFrameworks>netstandard2.0;net35</TargetFrameworks>
     <PackageId>$(AssemblyName).Standard</PackageId>
     <Version>1.5.1</Version>
     <Title>.NET Standard version of LINQtoCSV</Title>
@@ -14,6 +13,8 @@
     <PackageProjectUrl>https://github.com/loudenvier/LINQtoCSV</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReleaseNotes>This release added support to .NET Standard 2.0</PackageReleaseNotes>
+    <PackageOutputPath>..\Nuget\GeneratedPackages</PackageOutputPath>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
