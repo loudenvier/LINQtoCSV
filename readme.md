@@ -21,14 +21,14 @@ http://www.codeproject.com/Articles/25133/LINQ-to-CSV-library
 
 # License
 
-[Apache License, Version 2.0](https://opensource.org/licenses/apache2.0.php)
+This works is licensed under the MIT license.
 
 # Contributors welcome
 
 All contributions are welcome, whether those are new features or bug fixes.
 
 Before you invest time in your feature or bug fix, please first raise the issue in the issues list to get feedback about your idea:
-https://github.com/mperdeck/LINQtoCSV/issues
+https://github.com/loudenvier/LINQtoCSV/issues
 
 For bugs, show how the bug can be reproduced.
 For features, show why it would be useful to the wider community.
