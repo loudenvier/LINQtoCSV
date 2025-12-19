@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net35</TargetFrameworks>
-    <PackageId>$(AssemblyName).Standard</PackageId>
+    <PackageId>$(AssemblyName).StandardEdition</PackageId>
     <Version>1.5.1</Version>
     <Title>.NET Standard+NET35 version of LINQtoCSV</Title>
     <PackageReadmeFile>readme.md</PackageReadmeFile>

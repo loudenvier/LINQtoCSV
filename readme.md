@@ -1,4 +1,4 @@
-![LINQ2CSV](img/logo.jpg)
+![LINQ2CSV](https://raw.githubusercontent.com/loudenvier/LINQtoCSV/master/img/logo.jpg)
 
 # LINQtoCSV
 
