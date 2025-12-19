@@ -4,15 +4,15 @@
     <TargetFrameworks>netstandard2.0;net35</TargetFrameworks>
     <PackageId>$(AssemblyName).Standard</PackageId>
     <Version>1.5.1</Version>
-    <Title>.NET Standard version of LINQtoCSV</Title>
+    <Title>.NET Standard+NET35 version of LINQtoCSV</Title>
     <PackageReadmeFile>readme.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/loudenvier/LINQtoCSV</RepositoryUrl>
     <PackageTags>csv,tab delimited,linq,comma,tab</PackageTags>
     <Company>Loudenvier</Company>
-    <Description>The .NET Standard port of the popular, easy to use library to read and write CSV files: LINQtoCSV.</Description>
+    <Description>The .NET Standard fork of the popular, easy to use library to read and write CSV files: LINQtoCSV (backwards compatible with .NET 3.5)</Description>
     <PackageProjectUrl>https://github.com/loudenvier/LINQtoCSV</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageReleaseNotes>This release added support to .NET Standard 2.0</PackageReleaseNotes>
+    <PackageReleaseNotes>This release added support to .NET Standard 2.0 by multi-targeting both .NET Standard 2.0 and .NET Framework 3.5</PackageReleaseNotes>
     <PackageOutputPath>..\Nuget\GeneratedPackages</PackageOutputPath>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
